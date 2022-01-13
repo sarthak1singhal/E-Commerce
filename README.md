@@ -1,16 +1,6 @@
-# fix_feels
+# E-Commerce 
 
-A new Flutter application.
+E-commerce homepage UI screen with Login screens and API integration
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1642060698](https://user-images.githubusercontent.com/22476073/149289625-31fda511-5a80-4b48-9bf6-e97f86154f82.png)
+![Screenshot_1642060332](https://user-images.githubusercontent.com/22476073/149289635-c3af1737-f684-4927-8183-331ada76f255.png)
