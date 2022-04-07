@@ -5,7 +5,7 @@ E-commerce homepage UI screen with Login screens and API integration
 
 
   
-<video src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov" data-canonical-src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov"  muted="muted"  style="max-height:640px;">
+<video src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov" data-canonical-src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov"  muted="muted" controls="controls" style="max-height:640px;">
 
   </video>
 
