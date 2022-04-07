@@ -3,15 +3,9 @@
 E-commerce homepage UI screen with Login screens and API integration
 
 
-<video src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov"   controls="controls" autoplay="autoplay" style="max-height:640px;">
 
-  </video>
   
-  <br/>
-  
-  
-  
-  <video width="440px" loop="true" autoplay="autoplay" controls muted>
+  <video width="440px" loop="true"  controls >
   <source src="https://user-images.githubusercontent.com/22476073/162123159-d96f168a-21d9-4232-a265-7f9ffb7ae05a.mov" type="video/mov" />
 
 </video>
